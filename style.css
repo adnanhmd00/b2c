@@ -1,0 +1,358 @@
+body{
+    color: #fff;
+}
+/* .navbar{
+    border-bottom: #008ed6 3px solid;
+    opacity: 0.8;
+} */
+
+body{
+overflow-x: hidden;
+width: 100%;
+}
+
+
+/* For changing bg on scroll starts */
+nav.scrolled {
+    background: #fff;
+  }
+  
+  nav {
+    position: -webkit-sticky;
+    position: sticky;
+    /* sticky or fixed are fine */
+    position: fixed;
+    top: 0;
+    height: 69px;
+    width: 100%;
+    /* background when scroll is in the top */
+    transition: background .5s; 
+  }
+  
+
+
+#home-section {
+    background-image: url('./img/hiking.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 400px; 
+    align-self: center;
+}
+
+#business-home-section {
+    background-image: url('http://www.thetravelsquare.in/img/business-banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 400px; 
+    align-self: center;
+}
+
+#customer-care {
+    background-image: url('./img/customer-care-the-travel-square.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 450px; 
+    align-self: center;
+}
+
+#partner-help {
+    background-image: url('./img/partner-help-the-travel-square-business-platform.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 450px; 
+    align-self: center;
+}
+#seller-help {
+    background-image: url('./img/seller-help-the-travel-square-b2b-platform.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 450px; 
+    align-self: center;
+}
+#contact-us {
+    background-image: url('./img/contact-us-the-travel-square.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 450px; 
+    align-self: center;
+}
+
+
+#booking-status {
+    background-image: url('./img/partner-help-the-travel-square-business-platform.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 750px; 
+    align-self: center;
+}
+#visa-home {
+    background-image: url('./dubai-visa-banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 200px; 
+    align-self: center;
+}
+#privacy-policy {
+    background-image: url('img/black-banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 250px; 
+    align-self: center;
+}
+/* #home-section .dark-overlay{
+    position: absolute;
+    left:0;
+    top:0;  
+    width: 100%;
+    min-height: 400px;
+    background: rgba(0,0,0,0.7);
+} */
+
+#home-section .home-inner{
+    padding-top: 150px;
+}
+#business-home-section .home-inner{
+    padding-top: 150px;
+}
+
+#customer-care .home-inner{
+    padding-top: 180px;
+}
+#partner-help .home-inner{
+    padding-top: 250px;
+}
+#seller-help .home-inner{
+    padding-top: 250px;
+}
+#contact-us .home-inner{
+    padding-top: 250px;
+}
+#booking-status .home-inner{
+    padding-top: 250px;
+}
+#visa-home .home-inner{
+    padding-top: 250px;
+}
+#privacy-policy .home-inner{
+    padding-top: 100px;
+}
+#home-section .fa{
+    background-color: #fff;
+    color: #008ed6;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.bg-white{
+    background-color: #fff;
+    padding: 10px;
+    margin-top: 45px;
+    width: 850px;
+}
+.bg-darklight{
+    background-image: url('http://www.thetravelsquare.in/img/camping-tent.jpg');
+	background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px; 
+    align-self: center; 
+}
+.business-bg-darklight{
+    background-image: url('http://www.thetravelsquare.in/img/business-platform-banner.png');
+	background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px; 
+    align-self: center; 
+}
+
+.modal{
+        margin-top: 200px;
+		
+    }
+	
+.navbar-toggler{
+        background-color: rgba(0,0,0,0.1);
+    }
+	
+.custom-toggler.navbar-toggler { 
+            border-color: rgb(134, 137, 134); 
+        }
+		
+.text-size{
+    font-size: 68px;
+}
+.orange{
+    background-color: orange;
+    color: #fff;
+}
+.black{
+    background-color: black;
+    color: #fff;
+}
+.white{
+    background-color: white;
+    color: #fff;
+}
+.light-green{
+    color: #00d6cb;
+}
+.light-blue{
+    color: #008ed6;
+}
+  
+	
+	
+@media(max-width: 768px){
+    html, body {
+        overflow-x: hidden;
+      }
+     body {
+        width:100%;
+      }
+    .slick-img{
+        height: 100%;
+        width: 100%;
+    }
+    .slick-slide {
+        margin: 0px 0px;
+      }
+      .slick-reg-img{
+          width: 100%;
+          height: 100%;
+          border-radius: 15px;
+      }
+      .navbar-nav{
+          background-color: #000;
+          width: 100%;
+          padding: 0 15px;
+          margin: 0;
+      }
+      .navbar-dark{
+        color: #000;
+        background-color: rgba(0,0,0,0.1);
+    }
+    .mobileShow{
+        display: inline;
+        }
+    .upperIcon{
+        display: none;
+    }
+}
+
+@media(min-width : 769px){
+    .mobileShow{
+        display: none;
+        }
+    .upperIcon{
+        display: inline;
+    }
+   }
+.slick-reg-img{
+    border-radius: 5px;
+}
+
+.square-img{
+    height: 400px;
+    border-radius: 5px;
+}
+
+.flex-img{
+    border-radius: 5px;
+    height: 195px;
+    width: 250px;
+}
+
+#video-section{
+    position: relative;
+    background-image: url('http://www.thetravelsquare.in/img/the-travel-square-banner.png');
+    background-repeat: no-repeat;
+    min-height: 400px;
+    text-align: center;
+    color: #fff;
+    background-attachment: fixed;
+    background-position: 0 -300px;
+}
+#business-video-section{
+    position: relative;
+    background-image: url('http://www.thetravelsquare.in/img/grow-your-travel-business-with-us-the-travel-square.png');
+    background-repeat: no-repeat;
+    min-height: 500px;
+    text-align: center;
+    color: #fff;
+    background-attachment: fixed;
+    background-position: 0 -300px;
+}
+#video-section a{
+    color: #fff;
+}
+#business-video-section a{
+    color: #fff;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    transition: .5s ease;
+  }
+  .overlay-text {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  .overlay-para {
+    color: white;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  .overlay-button{
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  .hght{
+      height: 350px;
+      width: 100%;
+  }
+  .gold{
+      color: goldenrod;
+  }
+  .small{
+      font-size: 12px;
+  }
+  .bg-black{
+      background-color: #000;;
+  }
+  .nav-link{
+      color: #fff;
+  }
+  .nav-link:hover{
+    color: #fff;
+}
+nav.scrolled {
+    background-color: #000;
+  }
