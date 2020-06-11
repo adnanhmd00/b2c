@@ -41,7 +41,7 @@ nav.scrolled {
 }
 
 #business-home-section {
-    background-image: url('http://www.thetravelsquare.in/img/business-banner.jpg');
+    background-image: url('http://www.thetravelsquare.in/img/business-banner.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -271,7 +271,7 @@ nav.scrolled {
 
 #video-section{
     position: relative;
-    background-image: url('http://www.thetravelsquare.in/img/the-travel-square-banner.png');
+    background-image: url('http://www.thetravelsquare.in/img/the-travel-square-banner.jpg');
     background-repeat: no-repeat;
     min-height: 400px;
     text-align: center;
