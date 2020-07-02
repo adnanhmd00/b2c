@@ -746,11 +746,11 @@
         padding: 0;
         color: white;
         text-align: center;" class="block row">
-        <a href="#booking-tab" data-toggle="tab" aria-expanded="false" ><img src="img/holidays.png" height="55" width="55"></a>&nbsp;&nbsp;
-        <a href="#buy-leads-tab" data-toggle="tab" aria-expanded="false" ><img src="img/flights.png" height="55" width="55"></a>&nbsp;&nbsp;
-        <a href="#seller-tab" data-toggle="tab" aria-expanded="false"><img src="img/hotels.png" height="55" width="55"></a>&nbsp;&nbsp;
-        <a href="#enquiry-tab" data-toggle="tab" aria-expanded="false"><img src="img/experiences.png" height="55" width="55"></a>&nbsp;&nbsp;
-        <a href="#offers-tab" data-toggle="tab" aria-expanded="false" ><img src="img/transfers.png" height="55" width="55"></a>&nbsp;&nbsp;
+        <a href="" data-toggle="modal" data-target="#holiday" aria-expanded="false" ><img src="img/holidays.png" height="55" width="55"></a>&nbsp;&nbsp;
+        <a href="" data-toggle="modal" data-target="#flight" aria-expanded="false" ><img src="img/flights.png" height="55" width="55"></a>&nbsp;&nbsp;
+        <a href="" data-toggle="modal" data-target="#hotel" aria-expanded="false"><img src="img/hotels.png" height="55" width="55"></a>&nbsp;&nbsp;
+        <a href="" data-toggle="modal" data-target="#activity" aria-expanded="false"><img src="img/experiences.png" height="55" width="55"></a>&nbsp;&nbsp;
+        <a href="" data-toggle="modal" data-target="#transfer" aria-expanded="false" ><img src="img/transfers.png" height="55" width="55"></a>&nbsp;&nbsp;
       </div>
       </center>
       <!-- Video Modal -->
@@ -764,6 +764,13 @@
         </div>
     </div>
 </div>
+
+
+<?php include "includes/activity-modal.php"; ?>
+<?php include "includes/holiday-modal.php"; ?>
+<?php include "includes/hotel-modal.php"; ?>
+<?php include "includes/flight-modal.php"; ?>
+<?php include "includes/cab-modal.php"; ?>
 
 
       <!-- Year Script -->
