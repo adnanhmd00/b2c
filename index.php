@@ -689,34 +689,33 @@
             </div>
 			
             <hr color="white">
-			
-
             <div class="container py-4">
                 <div class="row">
 					<div class="col-md-3">
-                        <h6 class="text-muted mb-3">Connect With Us</h6>
-                        <div class="row"><small>
+                        
+                        <div class=""><small><center>
                            <a class="text-light" href="https://www.facebook.com/thetravelsquareb2b" target="_blank" rel=”nofollow”><i class="fa fa-facebook fa-2x ml-3"></i></a>
                            <a class="text-light" href="https://twitter.com/travelsquareb2b" target="_blank" rel=”nofollow”><i class="fa fa-twitter fa-2x ml-3"></i></a>
                            <a class="text-light" href="https://www.instagram.com/thetravelsquareofficial/" target="_blank" rel=”nofollow”><i class="fa fa-instagram fa-2x ml-3"></i></a>
                            <a class="text-light" href="https://www.linkedin.com/company/thetravelsquareb2b" target="_blank" rel=”nofollow”><i class="fa fa-linkedin fa-2x ml-3"></i></a>
-                           </small>
+                           <a class="text-light" href="https://www.linkedin.com/company/thetravelsquareb2b" target="_blank" rel=”nofollow”><i class="fa fa-youtube fa-2x ml-3"></i></a>
+                           </small></center>
 						  <br>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <center>
-						<h6 class="text-muted mb-3">24/7 Customer Hotline</h6>
+						
                         <i class="fa fa-phone text-muted mb-2"></i> &nbsp; +91-742-808-404 /06/08/09
 						</center>
 					</div>
                     <div class="col-md-3">
 						<center>
-                        <h6 class="text-muted mb-3">Mail Us For Queries</h6>
+                        
                         <i class="fa fa-envelope text-muted mb-2"></i> &nbsp;contact@thetravelsquare.in
 						</center>
                     </div>
-                    
+                    <br><br>
 					<div class="col-md-3">
 						<center>
                         <p class="text-muted mt-2">
@@ -727,7 +726,7 @@
                         </p>
                     </div>
                 </div>
-            </div>
+            </div>            
         </div>
     </footer>
 
