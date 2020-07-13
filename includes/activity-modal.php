@@ -12,8 +12,19 @@
       <div class="modal-body">
        <form action="" method="post">
            <div class="form-group">
-               <input type="text" placeholder="Search For Activities" class="form-control">
+               <input type="text" placeholder="Enter Destination" class="form-control">
            </div>
+           <div class="row">
+             <div class="col" style="border: 1px solid #2471a3; margin: 2px; padding: 0px 8px; font-size: 20px; border-radius:5px; color: #2471a3">Phuket</div>
+             <div class="col" style="border: 1px solid #2471a3; margin: 2px; padding: 0px 8px; font-size: 20px; border-radius:5px; color: #2471a3">Goa</div>
+             <div class="col" style="border: 1px solid #2471a3; margin: 2px; padding: 0px 8px; font-size: 20px; border-radius:5px; color: #2471a3">Singapore</div>
+             <div class="col" style="border: 1px solid #2471a3; margin: 2px; padding: 0px 8px; font-size: 20px; border-radius:5px; color: #2471a3">Karabi</div>
+             <div class="col" style="border: 1px solid #2471a3; margin: 2px; padding: 0px 8px; font-size: 20px; border-radius:5px; color: #2471a3">Bali</div>
+             <div class="col" style="border: 1px solid #2471a3; margin: 2px; padding: 0px 8px; font-size: 20px; border-radius:5px; color: #2471a3">Lonavala</div>
+             <div class="col" style="border: 1px solid #2471a3; margin: 2px; padding: 0px 8px; font-size: 20px; border-radius:5px; color: #2471a3">Ladakh</div>
+             <div class="col" style="border: 1px solid #2471a3; margin: 2px; padding: 0px 8px; font-size: 20px; border-radius:5px; color: #2471a3">Kanyakumari</div>
+           </div>
+<br>  
            <div class="form-group">
                <button class="btn btn-dark btn-block">Search</button>
            </div>
