@@ -55,10 +55,10 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"/>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.js"></script>
+  
+    
+    
+    
     <link rel="stylesheet" type="text/css" href="slick/slick.css">
   <link rel="stylesheet" type="text/css" href="slick/slick-theme.css">
     <link rel="stylesheet" href="style.css">
@@ -140,11 +140,11 @@
 									<center class="upperIcon">
 									
 									<p>&nbsp; &nbsp;&nbsp;
-									<a href="#"><img src="http://www.thetravelsquare.in/img/hotels-icon.png" height="50" width="110" alt="hotels-icon"></a>&nbsp;&nbsp;
-									<a href="#"><img src="http://www.thetravelsquare.in/img/flights-icon.png" height="50" width="110" alt="flights-icon"></a>&nbsp;&nbsp;
-									<a href="#"><img src="http://www.thetravelsquare.in/img/cabs-icon.png" height="50" width="110" alt="cabs-icon"></a>&nbsp;&nbsp;
-									<a href="#"><img src="http://www.thetravelsquare.in/img/experiences-icon.png" height="50" width="110" alt="experiences-icon"></a>&nbsp;&nbsp;
-									<a href="#"><img src="http://www.thetravelsquare.in/img/visa-icon.png" height="50" width="110" alt="visa-icon"></a>&nbsp;&nbsp;</p></center>
+									<a href="#"><img src="img/hotels-icon.png" height="50" width="110" alt="hotels-icon"></a>&nbsp;&nbsp;
+									<a href="#"><img src="img/flights-icon.png" height="50" width="110" alt="flights-icon"></a>&nbsp;&nbsp;
+									<a href="#"><img src="img/cabs-icon.png" height="50" width="110" alt="cabs-icon"></a>&nbsp;&nbsp;
+									<a href="#"><img src="img/experiences-icon.png" height="50" width="110" alt="experiences-icon"></a>&nbsp;&nbsp;
+									<a href="#"><img src="img/visa-icon.png" height="50" width="110" alt="visa-icon"></a>&nbsp;&nbsp;</p></center>
 									
                                         <div class="col-md-9">
                                             <input type="text" class="form-control bg-light form-control-lg mb-2" placeholder="Search by Destination, Activity Or Attraction">
@@ -212,30 +212,30 @@
                         <section class="responsive slider mt-4">
                            
                           <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=thailand" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/thailand-the-travel-square.png" alt="the-travel-square-packages-thailand"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=thailand" target="_blank"><img class="slick-reg-img img-fluid" src="img/thailand-the-travel-square.png" alt="the-travel-square-packages-thailand"></a>
                           </div>
                           <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=dubai" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/dubai-the-travel-square.png" alt="the-travel-square-packages-dubai"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=dubai" target="_blank"><img class="slick-reg-img img-fluid" src="img/dubai-the-travel-square.png" alt="the-travel-square-packages-dubai"></a>
                           </div>
 						  <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=turkey" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/turkey-the-travel-square.png" alt="the-travel-square-packages-turkey"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=turkey" target="_blank"><img class="slick-reg-img img-fluid" src="img/turkey-the-travel-square.png" alt="the-travel-square-packages-turkey"></a>
                           </div>
 						  <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=santorini" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/santorini-greece-the-travel-square.png" alt="the-travel-square-packages-santorini-greece"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=santorini" target="_blank"><img class="slick-reg-img img-fluid" src="img/santorini-greece-the-travel-square.png" alt="the-travel-square-packages-santorini-greece"></a>
                           </div>
 						  <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=bali" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/bali-the-travel-square.png" alt="the-travel-square-packages-bali"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=bali" target="_blank"><img class="slick-reg-img img-fluid" src="img/bali-the-travel-square.png" alt="the-travel-square-packages-bali"></a>
                           </div>
                           <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=maldives" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/maldives-the-travel-square.png" alt="the-travel-square-packages-maldives"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=maldives" target="_blank"><img class="slick-reg-img img-fluid" src="img/maldives-the-travel-square.png" alt="the-travel-square-packages-maldives"></a>
                           </div>
                           
                           
                           <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=singapore" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/singapore-the-travel-square.png" alt="the-travel-square-packages-singapore"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=singapore" target="_blank"><img class="slick-reg-img img-fluid" src="img/singapore-the-travel-square.png" alt="the-travel-square-packages-singapore"></a>
                           </div>
 						  <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=mauritius" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/mauritius-the-travel-square.png" alt="the-travel-square-packages-mauritius"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=mauritius" target="_blank"><img class="slick-reg-img img-fluid" src="img/mauritius-the-travel-square.png" alt="the-travel-square-packages-mauritius"></a>
                           </div>
 						  
 						  
@@ -253,22 +253,22 @@
                         <section class="responsive slider mt-3">
                           <div>
 							<a href="http://www.thetravelsquare.in/packages?city=ladakh" target="_blank">
-                            <img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/ladakh-bike-riding-experience-the-travel-square.png" alt="the-travel-square-packages-ladakh">
+                            <img class="slick-reg-img img-fluid" src="img/ladakh-bike-riding-experience-the-travel-square.png" alt="the-travel-square-packages-ladakh">
 							</a>
 						  </div>
                           <div>
 							<a href="http://www.thetravelsquare.in/packages?city=kerala" target="_blank">
-                            <img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/kerala-backwater-experience-the-travel-square.png" alt="the-travel-square-packages-kerala">
+                            <img class="slick-reg-img img-fluid" src="img/kerala-backwater-experience-the-travel-square.png" alt="the-travel-square-packages-kerala">
 							</a>
 						  </div>
 						  <div>
 						    <a href="http://www.thetravelsquare.in/packages?city=kashmir" target="_blank">
-                            <img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/dal-lake-floating-market-ride-the-travel-square.png" alt="the-travel-square-packages-kashmir">
+                            <img class="slick-reg-img img-fluid" src="img/dal-lake-floating-market-ride-the-travel-square.png" alt="the-travel-square-packages-kashmir">
 							</a>
 						  </div>
 						  <div>
 							<a href="http://www.thetravelsquare.in/packages?city=goa" target="_blank">
-                            <img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/goa-sunset-the-travel-square.png" alt="the-travel-square-packages-goa">
+                            <img class="slick-reg-img img-fluid" src="img/goa-sunset-the-travel-square.png" alt="the-travel-square-packages-goa">
 							</a>
 						  </div>
 						  
@@ -285,19 +285,19 @@
                         <div class="d-flex flex-column">
                             <div class="d-flex flex-row justify-content-between">
                                 <div>
-                                    <img src="http://www.thetravelsquare.in/img/trekking-adventure-the-travel-square.png" alt="trekking-adventure-the-travel-square" class="flex-img img-fluid mb-2 mr-1">
+                                    <img src="img/trekking-adventure-the-travel-square.png" alt="trekking-adventure-the-travel-square" class="flex-img img-fluid mb-2 mr-1">
                                 </div>
                                 <div>
-                                    <img src="http://www.thetravelsquare.in/img/honeymoon-trip-the-travel-square.png" alt="honeymoon-trip-the-travel-square" class="flex-img img-fluid mb-2 ml-1">
+                                    <img src="img/honeymoon-trip-the-travel-square.png" alt="honeymoon-trip-the-travel-square" class="flex-img img-fluid mb-2 ml-1">
                                 </div>
                             </div>
 
                             <div class="d-flex flex-row justify-content-between">
                                 <div>
-                                    <img src="http://www.thetravelsquare.in/img/ladakh-trip-the-travel-square.png" alt="ladakh-trip-the-travel-square" class="flex-img img-fluid mb-2 mr-1">
+                                    <img src="img/ladakh-trip-the-travel-square.png" alt="ladakh-trip-the-travel-square" class="flex-img img-fluid mb-2 mr-1">
                                 </div>
                                 <div>
-                                    <img src="http://www.thetravelsquare.in/img/solo-adventure-the-travel-square.png" alt="solo-adventure-the-travel-square" class="flex-img img-fluid mb-2 ml-1">
+                                    <img src="img/solo-adventure-the-travel-square.png" alt="solo-adventure-the-travel-square" class="flex-img img-fluid mb-2 ml-1">
                                 </div>
                             </div>
 
@@ -306,13 +306,13 @@
                      <div class="col-md-6">
                         <section class="square slider ">
                             <div>
-                              <img style="height: 400px;" class="square-img img-fluid" src="http://www.thetravelsquare.in/img/honeymoon-the-travel-square.png" alt="honeymoon-the-travel-square">
+                              <img style="height: 400px;" class="square-img img-fluid" src="img/honeymoon-the-travel-square.png" alt="honeymoon-the-travel-square">
                             </div>
                             <div>
-                              <img style="height: 400px;" class="square-img img-fluid" src="http://www.thetravelsquare.in/img/honeymoon-ankita-the-travel-square.png" alt="honeymoon-ankita-the-travel-square">
+                              <img style="height: 400px;" class="square-img img-fluid" src="img/honeymoon-ankita-the-travel-square.png" alt="honeymoon-ankita-the-travel-square">
                             </div>
                             <div>
-                              <img style="height: 400px;" class="square-img img-fluid" src="http://www.thetravelsquare.in/img/honeymoon-ranjan-the-travel-square.png" alt="honeymoon-ranjan-the-travel-square">
+                              <img style="height: 400px;" class="square-img img-fluid" src="img/honeymoon-ranjan-the-travel-square.png" alt="honeymoon-ranjan-the-travel-square">
                             </div>
 							
                         </section>
@@ -351,16 +351,16 @@
                       <h5><font color="black"><i class="fa fa-map"></i>&nbsp; <big>Winter is Comming !</big> Go Domestic This Season</font></h5>
                         <section class="responsive slider mt-3">
 						  <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=jodhpur" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/jodhpur-the-travel-square.png" alt="the-travel-square-packages-jodhpur"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=jodhpur" target="_blank"><img class="slick-reg-img img-fluid" src="img/jodhpur-the-travel-square.png" alt="the-travel-square-packages-jodhpur"></a>
                           </div>
                           <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=ooty" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/ooty-the-travel-square.png" alt="the-travel-square-packages-ooty"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=ooty" target="_blank"><img class="slick-reg-img img-fluid" src="img/ooty-the-travel-square.png" alt="the-travel-square-packages-ooty"></a>
                           </div>
 						  <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=jaisalmer" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/jaisalmer-the-travel-square.png" alt="the-travel-square-packages-jaisalmer"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=jaisalmer" target="_blank"><img class="slick-reg-img img-fluid" src="img/jaisalmer-the-travel-square.png" alt="the-travel-square-packages-jaisalmer"></a>
                           </div>
 						  <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=mysore" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/mysore-the-travel-square.png" alt="the-travel-square-packages-mysore"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=mysore" target="_blank"><img class="slick-reg-img img-fluid" src="img/mysore-the-travel-square.png" alt="the-travel-square-packages-mysore"></a>
                           </div>
 						  
                         </section>
@@ -369,16 +369,16 @@
                       
                         <section class="responsive slider mt-4">
 						  <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=sunderban" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/sunderban-the-travel-square.png" alt="the-travel-square-packages-sunderban"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=sunderban" target="_blank"><img class="slick-reg-img img-fluid" src="img/sunderban-the-travel-square.png" alt="the-travel-square-packages-sunderban"></a>
                           </div>
                           <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=auli" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/auli-the-travel-square.png" alt="the-travel-square-packages-auli"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=auli" target="_blank"><img class="slick-reg-img img-fluid" src="img/auli-the-travel-square.png" alt="the-travel-square-packages-auli"></a>
                           </div>
 						  <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=kutch" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/kutch-the-travel-square.png" alt="the-travel-square-packages-kutch"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=kutch" target="_blank"><img class="slick-reg-img img-fluid" src="img/kutch-the-travel-square.png" alt="the-travel-square-packages-kutch"></a>
                           </div>
 						  <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=andaman" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/andaman-the-travel-square.png" alt="the-travel-square-packages-andaman"></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=andaman" target="_blank"><img class="slick-reg-img img-fluid" src="img/andaman-the-travel-square.png" alt="the-travel-square-packages-andaman"></a>
                           </div>
 						  
                         </section>
@@ -387,16 +387,16 @@
                       <h5><font color="black"><i class="fa fa-binoculars"></i>&nbsp; <big>What's New ?</big> Travel Trends </font></h5>
                         <section class="responsive slider mt-3">
                           <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=australia" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/watch-icc-world-cup-t-20-2020-australia-live-the-travel-square.png" alt=""></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=australia" target="_blank"><img class="slick-reg-img img-fluid" src="img/watch-icc-world-cup-t-20-2020-australia-live-the-travel-square.png" alt=""></a>
                           </div>
                           <div>
-                            <a href="http://www.thetravelsquare.in/packages?city=thailand" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/exclusive-trip-for-women-travellers-the-travel-square.png" alt=""></a>
+                            <a href="http://www.thetravelsquare.in/packages?city=thailand" target="_blank"><img class="slick-reg-img img-fluid" src="img/exclusive-trip-for-women-travellers-the-travel-square.png" alt=""></a>
                           </div>
 						  <div>
-                            <a href="http://www.travpayments.com" rel=”nofollow” target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/travpay-wallet-banner-the-travel-square.png" alt=""></a>
+                            <a href="http://www.travpayments.com" rel=”nofollow” target="_blank"><img class="slick-reg-img img-fluid" src="img/travpay-wallet-banner-the-travel-square.png" alt=""></a>
                           </div>
 						  <div>
-                            <a href="http://www.thetravelsquare.in/emi" target="_blank"><img class="slick-reg-img img-fluid" src="http://www.thetravelsquare.in/img/bajaj-finance-travel-loan-the-travel-square.png" alt=""></a>
+                            <a href="http://www.thetravelsquare.in/emi" target="_blank"><img class="slick-reg-img img-fluid" src="img/bajaj-finance-travel-loan-the-travel-square.png" alt=""></a>
                           </div>
 						  
                         </section>
@@ -431,7 +431,7 @@
            <div class="row">
                <div class="col-md-8 mb-2">
 			   <a href="#" target="_blank">
-                   <img height="200px;" src="http://www.thetravelsquare.in/img/ladakh-bike-riding.jpg" alt="" class="img-fluid hght">
+                   <img height="200px;" src="img/ladakh-bike-riding.jpg" alt="" class="img-fluid hght">
                    <div class="overlay">
                        <h3 class="overlay-text"><big>Ladakh Riding Trip</big></h3>
                        <button class="btn btn-outline-light active overlay-button"><b>EXPLORE MORE</b></button>
@@ -443,7 +443,7 @@
 			   <a href="#" target="_blank">
                   <div class="card">
                       <div class="card-img">
-                          <img style="width: 100%; height: 180px;" src="http://www.thetravelsquare.in/img/santorini-greece.png" alt="" class="img-fluid">
+                          <img style="width: 100%; height: 180px;" src="img/santorini-greece.png" alt="" class="img-fluid">
                           <div class="card-img-overlay">
                               <font color="white"><i class="fa fa-map-marker"></i> &nbsp; Santorini The Heart of Greece</font>
                           </div>
@@ -474,7 +474,7 @@
 			   <a href="#" target="_blank">
                 <div class="card">
                     <div class="card-img">
-                        <img style="width: 100%; height: 180px;" src="http://www.thetravelsquare.in/img/goa-cruise-casino.png" alt="" class="img-fluid">
+                        <img style="width: 100%; height: 180px;" src="img/goa-cruise-casino.png" alt="" class="img-fluid">
                         <div class="card-img-overlay">
                             <font color="white"><i class="fa fa-map-marker"></i> &nbsp; Cruise Casino's In Goa</font>
                         </div>
@@ -503,7 +503,7 @@
 			   <a href="#" target="_blank">
                 <div class="card">
                     <div class="card-img">
-                        <img style="width: 100%; height: 180px;" src="http://www.thetravelsquare.in/img/bali-couple-private-pool.png" alt="" class="img-fluid">
+                        <img style="width: 100%; height: 180px;" src="img/bali-couple-private-pool.png" alt="" class="img-fluid">
                         <div class="card-img-overlay">
                             <font color="white"><i class="fa fa-map-marker"></i> &nbsp; Private Pool Resorts in Bali For Couples</font>
                         </div>
@@ -532,7 +532,7 @@
                 <a href="#" target="_blank">
 				<div class="card">
                     <div class="card-img">
-                        <img style="width: 100%; height: 180px;" src="http://www.thetravelsquare.in/img/jailesh-cruise-partner-the-travel-square.png" alt="" class="img-fluid">
+                        <img style="width: 100%; height: 180px;" src="img/jailesh-cruise-partner-the-travel-square.png" alt="" class="img-fluid">
                         <div class="card-img-overlay">
                             <font color="white"><i class="fa fa-map-marker"></i> &nbsp; India's First Luxury Cruise Liner</font>
                         </div>
@@ -565,15 +565,15 @@
         <p class="text-muted text-center"><big><font color="black">Some Travel & Tourism Industry Experts Around the Globe We Work With </font></big></p><br>
          <div class="row">
              <div class="col">
-                <a href="https://www.tourismthailand.org/Home" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1 mb-1" src="http://www.thetravelsquare.in/img/thailand-tourism-partner-the-travel-square.png" alt="thailand-tourism-partner-the-travel-square"></a>
-                <a href="https://www.indonesia.travel/gb/en/home" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/indonesian-tourism-partner-the-travel-square.png" alt="indonesian-tourism-partner-the-travel-square"></a>
-                <a href="https://www.visitdubai.com/en" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/dubai-tourism-partner-the-travel-square.png" alt="dubai-tourism-partner-the-travel-square"></a>
-                <a href="https://www.aircanada.com/ca/en/aco/home.html" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/air-canada-partner-the-travel-square.png" alt="air-canada-partner-the-travel-square"></a>
-                <a href="https://www.oyorooms.com/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/oyo-rooms-partner-the-travel-square.png" alt="oyo-rooms-partner-the-travel-square"></a>
-                <a href="https://www.goindigo.in/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/indigo-airline-partner-the-travel-square.png" alt="indigo-airline-partner-the-travel-square"></a>
-                <a href="https://www.hyatt.com/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/hyatt-hotel-international-partner-the-travel-square.png" alt="hyatt-hotel-international-partner-the-travel-square"></a>
-                <a href="https://www.marriott.com/default.mi" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/marriott-international-partner-the-travel-square.png" alt="marriott-international-partner-the-travel-square"></a>
-                <a href="https://www.theleela.com/en_us/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/the-leela-ambience-hotel-partner-the-travel-square.png" alt="the-leela-ambience-hotel-partner-the-travel-square"></a>
+                <a href="https://www.tourismthailand.org/Home" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1 mb-1" src="img/thailand-tourism-partner-the-travel-square.png" alt="thailand-tourism-partner-the-travel-square"></a>
+                <a href="https://www.indonesia.travel/gb/en/home" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/indonesian-tourism-partner-the-travel-square.png" alt="indonesian-tourism-partner-the-travel-square"></a>
+                <a href="https://www.visitdubai.com/en" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/dubai-tourism-partner-the-travel-square.png" alt="dubai-tourism-partner-the-travel-square"></a>
+                <a href="https://www.aircanada.com/ca/en/aco/home.html" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/air-canada-partner-the-travel-square.png" alt="air-canada-partner-the-travel-square"></a>
+                <a href="https://www.oyorooms.com/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/oyo-rooms-partner-the-travel-square.png" alt="oyo-rooms-partner-the-travel-square"></a>
+                <a href="https://www.goindigo.in/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/indigo-airline-partner-the-travel-square.png" alt="indigo-airline-partner-the-travel-square"></a>
+                <a href="https://www.hyatt.com/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/hyatt-hotel-international-partner-the-travel-square.png" alt="hyatt-hotel-international-partner-the-travel-square"></a>
+                <a href="https://www.marriott.com/default.mi" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/marriott-international-partner-the-travel-square.png" alt="marriott-international-partner-the-travel-square"></a>
+                <a href="https://www.theleela.com/en_us/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/the-leela-ambience-hotel-partner-the-travel-square.png" alt="the-leela-ambience-hotel-partner-the-travel-square"></a>
              </div>
          </div>
      </div>
@@ -583,15 +583,15 @@
         <p class="text-muted text-center"><big><font color="black">The Right Arm of Anarchy Have Some Stories to Say About Us </font></big></p><br>
         <div class="row">
             <div class="col">
-               <a href="https://yourstory.com/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/yourstory-covers-the-travel-square.png" alt="yourstory-covers-the-travel-square"></a>
-               <a href="https://www.entrepreneur.com/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/entreprenuer-covers-the-travel-square.png" alt="entreprenuer-covers-the-travel-square"></a>
-               <a href="https://aim.gov.in/atal-incubation-centres.php" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/AIC-atal-inclubation-centre-covers-the-travel-square.png" alt="AIC-atal-inclubation-centre-covers-the-travel-square"></a>
-               <a href="https://www.timesnownews.com/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/times-now-covers-the-travel-square.png" alt="times-now-covers-the-travel-square"></a>
-               <a href="https://www.f6s.com/thetravelsquareteam" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/f6s-investors-covers-the-travel-square.png" alt="f6s-investors-covers-the-travel-square"></a>
-               <a href="https://www.startupstories.in/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/startup-stories-covers-the-travel-square.png" alt="startup-stories-covers-the-travel-square"></a>
-               <a href="https://mystory.me/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/my-story-covers-the-travel-square.png" alt="my-story-covers-the-travel-square"></a>
-               <a href="https://www.marketingmind.in/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/marketing-minds-covers-the-travel-square.png" alt="marketing-minds-covers-the-travel-square"></a>
-               <a href="https://www.amarujala.com/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="http://www.thetravelsquare.in/img/amar-ujala-covers-the-travel-square.png" alt="amar-ujala-covers-the-travel-square"></a>
+               <a href="https://yourstory.com/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/yourstory-covers-the-travel-square.png" alt="yourstory-covers-the-travel-square"></a>
+               <a href="https://www.entrepreneur.com/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/entreprenuer-covers-the-travel-square.png" alt="entreprenuer-covers-the-travel-square"></a>
+               <a href="https://aim.gov.in/atal-incubation-centres.php" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/AIC-atal-inclubation-centre-covers-the-travel-square.png" alt="AIC-atal-inclubation-centre-covers-the-travel-square"></a>
+               <a href="https://www.timesnownews.com/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/times-now-covers-the-travel-square.png" alt="times-now-covers-the-travel-square"></a>
+               <a href="https://www.f6s.com/thetravelsquareteam" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/f6s-investors-covers-the-travel-square.png" alt="f6s-investors-covers-the-travel-square"></a>
+               <a href="https://www.startupstories.in/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/startup-stories-covers-the-travel-square.png" alt="startup-stories-covers-the-travel-square"></a>
+               <a href="https://mystory.me/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/my-story-covers-the-travel-square.png" alt="my-story-covers-the-travel-square"></a>
+               <a href="https://www.marketingmind.in/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/marketing-minds-covers-the-travel-square.png" alt="marketing-minds-covers-the-travel-square"></a>
+               <a href="https://www.amarujala.com/" rel=”nofollow” target="_blank"><img style="width: 100px; height: 100px;" class="square-img img-fluid mb-1" src="img/amar-ujala-covers-the-travel-square.png" alt="amar-ujala-covers-the-travel-square"></a>
             </div>
         </div>
     </div>
@@ -608,7 +608,7 @@
 				   </font>
 				</div>
                 <div class="offset-md-2 col-md-4"><br>
-                    <img style="width: 65%; height: 85px;" src="https://www.thetravelsquare.in/img/the-trave-square-logo.png" alt="the-travel-square-logo" class="img-fluid mx-auto d-block">
+                    <img style="width: 65%; height: 85px;" src="img/the-travel-square-logo.png" alt="the-travel-square-logo" class="img-fluid mx-auto d-block">
                 </div>
             </div><br>
 			
@@ -619,11 +619,11 @@
                 <div class="col">
                    <h6 class="text-muted">Seasonal Experiences</h6>
                    <ul class="nav">
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/experiences?city=phuket-krabi" class="nav-link">Phuket & Krabi</a></li>
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/experiences?city=singapore-malaysia" class="nav-link">Singapore & Malaysia</a></li>
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/experiences?city=bangkok-pattaya" class="nav-link">Bangkok & Pattaya</a></li> 
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/experiences?city=santorini" class="nav-link">Greece Tour</a></li>
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/experiences?city=bali" class="nav-link">Exotic Bali</a></li>
+                       <li class="nav-item"><a href="experiences?city=phuket-krabi" class="nav-link">Phuket & Krabi</a></li>
+                       <li class="nav-item"><a href="experiences?city=singapore-malaysia" class="nav-link">Singapore & Malaysia</a></li>
+                       <li class="nav-item"><a href="experiences?city=bangkok-pattaya" class="nav-link">Bangkok & Pattaya</a></li> 
+                       <li class="nav-item"><a href="experiences?city=santorini" class="nav-link">Greece Tour</a></li>
+                       <li class="nav-item"><a href="experiences?city=bali" class="nav-link">Exotic Bali</a></li>
                    </ul>
                 </div>
             </div>
@@ -632,18 +632,18 @@
                 <div class="col">
                    <h6 class="text-muted">Popular Holiday Destination</h6>
                    <ul class="nav">
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/packages?city=bali" target="_blank" class="nav-link">Bali Packages</a></li>
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/packages?city=europe" target="_blank" class="nav-link">Europe Packages</a></li>
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/packages?city=dubai" target="_blank" class="nav-link">Dubai Packages</a></li> 
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/packages?city=thailand" target="_blank" class="nav-link">Thailand Packages</a></li>
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/packages?city=singapore" target="_blank" class="nav-link">Singapore Packages</a></li>
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/packages?city=nepal" target="_blank" class="nav-link">Nepal Packages</a></li>
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/packages?city=australia" target="_blank" class="nav-link">Australia Packages</a></li>
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/packages?city=maldives" target="_blank" class="nav-link">Maldives Packages</a></li>
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/packages?city=mauritius" target="_blank" class="nav-link">Mauritius Packages</a></li>
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/packages?city=vietnam" target="_blank" class="nav-link">Vietnam Packages</a></li>
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/packages?city=srilanka" target="_blank" class="nav-link">Srilanka Packages</a></li>
-                       <li class="nav-item"><a href="https://www.thetravelsquare.in/packages?city=bhutan" target="_blank" class="nav-link">Bhutan Packages</a></li>
+                       <li class="nav-item"><a href="packages?city=bali" target="_blank" class="nav-link">Bali Packages</a></li>
+                       <li class="nav-item"><a href="packages?city=europe" target="_blank" class="nav-link">Europe Packages</a></li>
+                       <li class="nav-item"><a href="packages?city=dubai" target="_blank" class="nav-link">Dubai Packages</a></li> 
+                       <li class="nav-item"><a href="packages?city=thailand" target="_blank" class="nav-link">Thailand Packages</a></li>
+                       <li class="nav-item"><a href="packages?city=singapore" target="_blank" class="nav-link">Singapore Packages</a></li>
+                       <li class="nav-item"><a href="packages?city=nepal" target="_blank" class="nav-link">Nepal Packages</a></li>
+                       <li class="nav-item"><a href="packages?city=australia" target="_blank" class="nav-link">Australia Packages</a></li>
+                       <li class="nav-item"><a href="packages?city=maldives" target="_blank" class="nav-link">Maldives Packages</a></li>
+                       <li class="nav-item"><a href="packages?city=mauritius" target="_blank" class="nav-link">Mauritius Packages</a></li>
+                       <li class="nav-item"><a href="packages?city=vietnam" target="_blank" class="nav-link">Vietnam Packages</a></li>
+                       <li class="nav-item"><a href="packages?city=srilanka" target="_blank" class="nav-link">Srilanka Packages</a></li>
+                       <li class="nav-item"><a href="packages?city=bhutan" target="_blank" class="nav-link">Bhutan Packages</a></li>
                        
                    </ul>
                 </div>
@@ -771,6 +771,10 @@
 <?php include "includes/flight-modal.php"; ?>
 <?php include "includes/cab-modal.php"; ?>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.js"></script>
 
       <!-- Year Script -->
       <script>
